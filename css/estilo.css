@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../imagens/fundo.PNG");
+    background-position: center;
+    font-family: arial;
+}
+input{
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 10px 20px ;
+    background: rgba(255, 255, 255, 0.4);
+    outline: none;
+    
+}
+
+input[type = submit]{
+
+}
+div#corpo-form{
+    width: 420px;
+    margin: 200px auto 250px auto;
+        
+}
+
